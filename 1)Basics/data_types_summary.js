@@ -36,3 +36,18 @@ const dataTypesSummary = {
     set: "A collection of unique values, where each value can only occur once."
   }
 };
+/*
+stack and heap
+Stack:
+- Memory structure for static memory allocation.
+- Stores primitive data types and references to objects.
+- Fast access and management.
+- Memory is automatically managed (LIFO - Last In, First Out).
+Heap:
+- Memory structure for dynamic memory allocation.
+- Stores objects and complex data types.
+- Slower access compared to stack.
+- Memory management is manual (garbage collection).
+- Used for larger data structures and objects.
+Stack is used for function calls and local variables, while heap is used for objects and arrays.
+*/
