@@ -67,12 +67,12 @@ const {courseInstructor: instructor} = course
 
 // console.log(courseInstructor);
 console.log(instructor);
-
-// {
-//     "name": "hitesh",
-//     "coursename": "js in hindi",
-//     "price": "free"
-// }
+// JSON file
+/* {
+     "name": "hitesh",
+     "coursename": "js in hindi",
+     "price": "free"
+ }*/
 
 [
     {},
